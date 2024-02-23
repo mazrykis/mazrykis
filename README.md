@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/6d/48/af/6d48af9e1a6e66c593c21ae25eace4b4.gif)
 
-<h1>wassap, I’m a newbie frondent, trying to understand the whole essence of IT</h1>
+<h1>Wassup, I'm a beginner frontend</h1>
 <div>
 <h1>My skill</h1>
 
